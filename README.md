@@ -1,19 +1,19 @@
-# Módulo 01 - Fundamentos de Node.js (FinApi)
+# Module 01 - Node.js Fundamentals (FinApi)
 
-Exercício de estudo do módulo de fundamentos de Node.js do Ignite (Rocketseat), turma 2021. Implementa a "FinApi", uma API REST de operações financeiras: criação de conta por CPF, depósito, saque (com validação de saldo insuficiente), consulta de extrato (geral e por data), atualização e exclusão de dados da conta.
+Study exercise from the Node.js fundamentals module of Ignite (Rocketseat), 2021 class. Implements the "FinApi", a financial operations REST API: account creation by CPF, deposit, withdrawal (with insufficient balance validation), statement lookup (overall and by date), and account data update and deletion.
 
-## Tecnologias
+## Technologies
 
 - Node.js
 - Express
 - uuid
 - Nodemon
 
-## Como rodar
+## How to run
 
 ```bash
 yarn install
 
-# ambiente de desenvolvimento
+# development environment
 yarn dev
 ```
