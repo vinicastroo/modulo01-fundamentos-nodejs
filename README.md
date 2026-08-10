@@ -1,5 +1,7 @@
 # Module 01 - Node.js Fundamentals (FinApi)
 
+> This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
+
 Study exercise from the Node.js fundamentals module of Ignite (Rocketseat), 2021 class. Implements the "FinApi", a financial operations REST API: account creation by CPF, deposit, withdrawal (with insufficient balance validation), statement lookup (overall and by date), and account data update and deletion.
 
 ## Technologies
