@@ -1,4 +1,4 @@
-# [estudos] Module 01 - Node.js Fundamentals (FinApi)
+# Module 01 - Node.js Fundamentals (FinApi)
 
 > This project used to live together with several other study projects in a single monorepo. It has since been split out into its own dedicated repository. See the original [estudos-ignite](https://github.com/vinicastroo/estudos-ignite) repo for more context.
 
